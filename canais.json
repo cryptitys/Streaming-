@@ -1,0 +1,102 @@
+[
+  {
+    "nome": "TV Brasil",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Brasil_Logo.png",
+    "url": "http://tvbrasil-lh.akamaihd.net/i/tvbrasil_1@319270/master.m3u8"
+  },
+  {
+    "nome": "TV Cultura",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/TV_Cultura_Logo.png",
+    "url": "http://culturatv-lh.akamaihd.net/i/culturatv_1@319270/master.m3u8"
+  },
+  {
+    "nome": "NASA TV",
+    "logo": "https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png",
+    "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8"
+  },
+  {
+    "nome": "France 24 English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/France24.png",
+    "url": "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
+  },
+  {
+    "nome": "Al Jazeera English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Al_Jazeera_English_logo.svg",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
+  },
+  {
+    "nome": "RT News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f7/RT_Logo_2014.svg",
+    "url": "https://rt-hls-live.akamaized.net/hls/live/2000975/rt-en/index.m3u8"
+  },
+  {
+    "nome": "DW News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/DW_Logo_2012.png",
+    "url": "https://dwstream3-lh.akamaihd.net/i/dwstream3_en@298083/master.m3u8"
+  },
+  {
+    "nome": "Bloomberg TV",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bloomberg_logo.svg",
+    "url": "https://www.bloomberg.com/live/us_channel.m3u8"
+  },
+  {
+    "nome": "Pluto TV Filmes",
+    "logo": "https://i.imgur.com/tPlogo.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde73c729df00009c108e6/master.m3u8"
+  },
+  {
+    "nome": "Pluto TV Series",
+    "logo": "https://i.imgur.com/tPlogo.png",
+    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde73c729df00009c108e7/master.m3u8"
+  },
+  {
+    "nome": "NHK World Japan",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/NHK_World_Logo.svg",
+    "url": "https://nhkworld-lh.akamaihd.net/i/nhkworld_1@319270/master.m3u8"
+  },
+  {
+    "nome": "RT Documentary",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/05/RT_Documentary_Logo.svg",
+    "url": "https://rt-hls-live.akamaized.net/hls/live/2000975/rtdoc-en/index.m3u8"
+  },
+  {
+    "nome": "Euronews English",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/77/Euronews_Logo_2019.svg",
+    "url": "https://euronews-lh.akamaihd.net/i/euronews_en@319270/master.m3u8"
+  },
+  {
+    "nome": "C-SPAN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/CSPAN_logo.svg",
+    "url": "http://cspan-lh.akamaihd.net/i/cspan1_1@319270/master.m3u8"
+  },
+  {
+    "nome": "ABC News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/ABC_News.svg",
+    "url": "http://abclive-lh.akamaihd.net/i/abc_1@319270/master.m3u8"
+  },
+  {
+    "nome": "NBC News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_News_Logo_2016.svg",
+    "url": "http://nbcnews-lh.akamaihd.net/i/nbcnews_1@319270/master.m3u8"
+  },
+  {
+    "nome": "CBS News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/CBS_News_Logo.svg",
+    "url": "http://cbsnews-lh.akamaihd.net/i/cbsnews_1@319270/master.m3u8"
+  },
+  {
+    "nome": "Sky News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sky_News_Logo.svg",
+    "url": "http://skynews-lh.akamaihd.net/i/skynews_1@319270/master.m3u8"
+  },
+  {
+    "nome": "TV5 Monde",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f9/TV5Monde_logo.svg",
+    "url": "http://tv5monde-lh.akamaihd.net/i/tv5monde_1@319270/master.m3u8"
+  },
+  {
+    "nome": "Cultura Kids",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/TV_Cultura_Logo.png",
+    "url": "http://culturatv-lh.akamaihd.net/i/culturatvkids_1@319270/master.m3u8"
+  }
+]
